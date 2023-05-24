@@ -24,7 +24,6 @@ import epsRoutes from './routes/eps.js';
 import postCommentRoutes from './routes/postComments.js';
 import authRoutes from './routes/auth.js';
 import cookieParser from 'cookie-parser';
-import { Server } from "socket.io";
 import { createServer } from 'http';
 
 const app = express();

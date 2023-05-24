@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -23,5 +22,15 @@
     "nodemon": "^2.0.22",
     "passport": "^0.6.0",
     "socket.io": "^4.6.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonela-Johannes/NomiApi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yonela-Johannes/NomiApi/issues"
+  },
+  "homepage": "https://github.com/Yonela-Johannes/NomiApi#readme",
+  "description": ""
 }
